@@ -1,0 +1,135 @@
+body {
+  background-color: #030815;
+  height: 100%;
+}
+.cont {
+  background-color: #030815;
+  font-family: "Roboto";
+  color: #7755e9;
+  min-height: 100vh;
+  padding: 5%;
+}
+.logo {
+  width: 50px;
+  height: auto;
+}
+.name {
+  font-weight: bold;
+  color: #ffffff;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.card1 {
+  padding: 10px;
+  margin: 10px;
+  height: auto;
+}
+.btn1 {
+  border-radius: 50px;
+  color: #ffffff;
+  background-color: #5e4ce2;
+  padding: 10px;
+  border-width: 0px;
+  margin-right: 10px;
+}
+.btn2 {
+  border-radius: 50px;
+  color: #ffffff;
+  background-color: #1f1564;
+  padding: 10px;
+  border-color: #3e29c7;
+  border-style: solid;
+  border-width: 1px;
+}
+.co {
+  padding: 5px;
+}
+.boy {
+  height: 100%;
+  width: 100%;
+}
+.bg {
+  background-color: #030815;
+  color: #005efc;
+}
+.card2 {
+  border: #adc0e0;
+  border-width: 1px;
+  border-style: groove;
+  border-radius: 20px;
+}
+.card21 {
+  margin: 2px;
+  padding: 4px;
+  text-align: center;
+  color: #ffffff;
+  border: #05265e;
+  border-width: 1px;
+  border-style: groove;
+  border-radius: 20px;
+  height: auto;
+  width: auto;
+}
+.cl-purple {
+  color: purple;
+}
+.bg-purple {
+  background-color: purple;
+  border-radius: 100%;
+  padding: 6px;
+}
+.cl-lg {
+  color: rgb(36, 111, 9);
+}
+.bg-lg {
+  background-color: rgb(25, 144, 11);
+  border-radius: 100%;
+  padding: 6px;
+}
+.cl-blue {
+  color: rgb(42, 57, 192);
+}
+.bg-blue {
+  background-color: rgb(44, 56, 187);
+  border-radius: 100%;
+  padding: 6px;
+}
+
+.cl-yellow {
+  color: rgb(195, 206, 44);
+}
+.bg-yellow {
+  background-color: rgb(195, 206, 44);
+  border-radius: 100%;
+  padding: 6px;
+}
+.line {
+  width: 95%;
+  color: rgb(215, 181, 181);
+  border-width: 3px;
+  margin: auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.arrow {
+  list-style-type: "->";
+}
+.footer {
+  background-color: #005efc;
+}
+.project {
+  border-color: rgb(133, 214, 214);
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 10px;
+  padding: 10px;
+}
+.light {
+  color: #8b95bd;
+}
+p {
+  color: #8b95bd;
+}
+.white {
+  color: #ffffff;
+}
