@@ -133,3 +133,12 @@ p {
 .white {
   color: #ffffff;
 }
+.grid-image {
+  height: 350px;
+  width: 100%;
+  object-fit: contain; /* shows the FULL screenshot, no cropping */
+  background-color: #1a1a1a; /* fills empty space around the image nicely */
+  border-radius: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
